@@ -1,12 +1,16 @@
 # 3DViewer
 
--Programme simulant de les vues perspective concu a but educatif
+-Programme simulant de les vues perspective concu a but educatif.
 
--Le programme permet au stade actuel d'ajouter des plans et des triangles dans la scène en fournissant les coordonnées
+-Le principe est de recreer les impressions de profondeur sur une image en utilisant des outils 2D.
 
--La vue de face, la vue pauvre, et la vue en persepective 1 point est deja disponible
+-Le programme permet au stade actuel d'ajouter des plans et des triangles dans la scène en fournissant les coordonnées.
 
--On peut augmenter ou diminuer la profondeur d'un objet dans la scene
+-La vue de face, la perspective cavaliere, et la vue en perspective 1 point est deja disponible.
+
+-La position du dernier objet ajouté dans la scene est modifiable.
+
+-Les vertices sont clickables uns a uns, mais non sont pas encore manipulables.
 
 #Pour lancer le programme
 
@@ -15,15 +19,18 @@ Lancer:
 -Dans le dossier classes "java Panneau"
 
 ou Compiler:
+
 -Dans le dossier src: "javac *.java"
 
 -Puis "java Panneau"
 
 #TODO
 
--Afficher dans la vue a l'endroit
+-Afficher la vue a l'endroit
 
--Finir implementation cube
+-Rotation des objets
+
+-Finir implementation cube, et d'autres primitives simples
 
 -Ajout de widget plus appropriés pour la manulation de l'objet
 
