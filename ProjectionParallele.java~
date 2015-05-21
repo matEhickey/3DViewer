@@ -1,0 +1,10 @@
+import java.util.*;
+public class ProjectionParallele implements Projection {
+
+	public int[] getXYcoord(Vertice vertice){
+		List coord = new LinkedList();
+		
+		return(coord);
+	}
+
+}
