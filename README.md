@@ -8,13 +8,24 @@
 
 -On peut augmenter ou diminuer la profondeur d'un objet dans la scene
 
-#Pour lancer le programme:
--Dans le dossier: "javac *.java"
+#Pour lancer le programme
+
+Lancer:
+
+-Dans le dossier classes "java Panneau"
+
+ou Compiler:
+-Dans le dossier src: "javac *.java"
+
 -Puis "java Panneau"
 
-#TODO:
+#TODO
+
 -Afficher dans la vue a l'endroit
+
 -Finir implementation cube
+
 -Ajout de widget plus appropriés pour la manulation de l'objet
+
 -Systeme plus poussé de selection des objets
 
