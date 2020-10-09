@@ -1,4 +1,0 @@
-import java.util.*;
-public interface Projection {//Visiteur
-	public List getXYcoord(Vertice vertice);
-}
